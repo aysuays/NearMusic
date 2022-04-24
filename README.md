@@ -1,5 +1,6 @@
 # NearMusic - Near Protocol
 Unlike classical music listening applications it is an app where you pay for the number of music listening without paying a monthly fee ...
+https://www.loom.com/share/3f75552a65e84fe1a47209bc2b7d13da
 # Roles
 ## Admin Usage
 - Create songs with song name, artist name, genre, description etc. fields. Then may modify, inactivate them.
